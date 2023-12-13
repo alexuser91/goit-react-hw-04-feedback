@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: #def8f8ad;
+  text-align: center;
+  width: 500px;
+  height: 250px;
+  border: none;
+  margin: 150px auto 0 auto;
+  padding: 30px;
+  border-radius: 5px;
+}
